@@ -1,0 +1,40 @@
+# Ignore database files
+*.sqlite3
+
+# Ignore static files
+/staticfiles/
+
+# Ignore media files
+/media/
+
+# Ignore virtual environment
+venv/
+.env
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore local settings (settings.py with sensitive information)
+local_settings.py
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore log files
+*.log
+
+# Ignore Django migration files
+**/migrations/*.py
+**/migrations/*.pyc
+
+# Ignore secret key
+*.secret
+
+# Ignore MySQL database credentials
+.env
+
+# Ignore any other project-specific files or directories you want to exclude from version control
