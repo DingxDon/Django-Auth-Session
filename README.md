@@ -1,6 +1,4 @@
-Sure, here's a template for a README file tailored to your Django project:
 
----
 
 # Django Authentication and Session Management
 
